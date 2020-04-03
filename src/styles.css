@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+body{
+    margin :0px;
+    padding: 0px;
+    background-color: #e9eaed;
+}
+@media(max-width:420px ){
+    body{
+        width: 400px;
+    }
+}

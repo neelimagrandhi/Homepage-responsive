@@ -1,0 +1,21 @@
+nav{
+    justify-content: space-between;
+    padding: 4px 160px;
+    background-color: rgb(14, 104, 170);
+    border-bottom: 8px solid rgb(0, 78, 137);
+    color: white;
+}
+li{
+    border-right: 1px solid rgb(150, 158, 163);;
+}
+ul li a{
+    color: #A1CFF0;
+    text-decoration: none;
+    font-size: 14px;
+}
+.nav-link{
+    padding: 0px;
+}
+.navbar-brand{
+    font-weight: 900px;
+}

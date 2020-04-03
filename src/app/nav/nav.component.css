@@ -1,0 +1,18 @@
+nav{
+    
+    background-color: rgb(223, 223, 223);
+}
+.collapse{
+    margin: 5px 160px;
+}
+a{
+  border-right: 1px solid rgb(185, 184, 184);;
+}
+.nav-link{
+    padding: 0px;
+}
+@media(max-width:520px ){
+     img{
+         width: 250px;
+     }
+}
